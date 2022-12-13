@@ -39,7 +39,7 @@
 
 
 - 🌱 I’m currently learning **Rest Api with Laravel**
-- 👯   I’m currently working on ** Framework Laravel **
+- :)  I’m currently working on ** Framework Laravel **
 - 💬 Ask me about **Vue js , AWS**
 - 📫 You can shoot me an email at Rami.Suwayyed@gmail.com!
 -  I'll try to respond as soon as I can
@@ -56,7 +56,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Rami_Suwayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rami_Suwayyed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Rami_Suwayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rami-Suwayyed" height="30" width="40" /></a>
+<a href="https://jo.linkedin.com/in/rami-suwayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rami-Suwayyed" height="30" width="40" /></a>
 <a href="https://facebook.com/Rami_Suwayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rami-Suwayyed" height="30" width="40" /></a>
 <a href="https://instagram.com/Rami_Suwayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rami-Suwayyed" height="30" width="40" /></a>
 </p>
