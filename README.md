@@ -37,10 +37,10 @@
 
 
 
-- 🌱 I’m currently learning **Rest Api with flutter**
-- 👯   I’m currently working on **doctor application**
-- 💬 Ask me about **Flutter , AWS**
-- 📫 You can shoot me an email at haroonabutabar9966@gmail.com! I'll try to respond as soon as I can
+- 🌱 I’m currently learning **Rest Api with Laravel**
+- 👯   I’m currently working on ** Framework Laravel **
+- 💬 Ask me about **Vue js , AWS**
+- 📫 You can shoot me an email at Rami.Suwayyed@gmail.com! I'll try to respond as soon as I can
 - ⚡ Fun fact **I am Funny**
 
 <br><br>
