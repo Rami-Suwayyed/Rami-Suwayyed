@@ -19,7 +19,7 @@
 [![G-Mail](https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red)](https://github.com/Rami-Suwayyed)
 [![Opera-GX](https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d)](https://www.opera.com/gx)
 [![Steam](https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838)](https://store.steampowered.com/)
-[![Discord](https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA)](https://discord.gg/4CpjK2vveY)
+[![Discord](https://img.shields.io/badge/Php-Storm-blue/?logo=discord&logoColor=warning&color=7289DA)](https://www.jetbrains.com/phpstorm/)
 [![Spotify](https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954)](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e)
 </h2>
 
@@ -54,9 +54,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Rami_Suwayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haroon_abutabar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Rami_Suwayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haroon-abutabar-5505a1207" height="30" width="40" /></a>
-<a href="https://fb.com/Rami_Suwayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rami-Suwayyed" height="30" width="40" /></a>
+<a href="https://twitter.com/Rami_Suwayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rami_Suwayyed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Rami_Suwayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rami_Suwayyed" height="30" width="40" /></a>
+<a href="https://facebook.com/Rami_Suwayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rami-Suwayyed" height="30" width="40" /></a>
 <a href="https://instagram.com/Rami_Suwayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rami-Suwayyed" height="30" width="40" /></a>
 </p>
 <!---
