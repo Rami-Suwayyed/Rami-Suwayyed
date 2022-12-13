@@ -13,7 +13,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rami-Suwayyed&label=Profile%20views&color=0e75b6&style=flat" alt="Rami-Suwayyed" /> </p>
 
 <h2 align='left'>
-  Softwares I Use:- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> <br/><br/>
+  Softwares I Use <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+  <br/><br/>
 
 [![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue)](https://code.visualstudio.com/)
 [![G-Mail](https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red)](https://github.com/Rami-Suwayyed)
@@ -55,7 +56,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Rami_Suwayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rami_Suwayyed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Rami_Suwayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rami_Suwayyed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Rami_Suwayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rami-Suwayyed" height="30" width="40" /></a>
 <a href="https://facebook.com/Rami_Suwayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rami-Suwayyed" height="30" width="40" /></a>
 <a href="https://instagram.com/Rami_Suwayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rami-Suwayyed" height="30" width="40" /></a>
 </p>
