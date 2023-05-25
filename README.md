@@ -29,7 +29,7 @@
   💻 My Workspace, My PC!!!:-<br/><br/>
 
   [![Windows 10](https://img.shields.io/badge/Windows%2010-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/Rami-Suwayyed)
-  [![Intel Core i5](https://img.shields.io/badge/Intel-Core%20i5%205th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/Rami-Suwayyed)
+  [![Intel Core i7](https://img.shields.io/badge/Intel-Core%20i5%2012th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/Rami-Suwayyed)
   [![8GB RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/Rami-Suwayyed)
   [![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/Rami-Suwayyed)
 </h3>
