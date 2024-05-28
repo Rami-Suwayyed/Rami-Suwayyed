@@ -36,7 +36,6 @@
 
 
 
-- 🌱 I’m currently learning **Rest Api with Laravel**
 - :)  I’m currently working on ** Framework Laravel **
 - 💬 Ask me about **Vue js , AWS**
 - 📫 You can shoot me an email at Rami.Suwayyed@gmail.com!
